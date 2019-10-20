@@ -36,7 +36,7 @@ $(document).ready(function () {
       // Here we then log the data to console, where it will show up as an object.
       console.log("------------------------------------");
 
-      // Loop through and display each of the customers
+      // Loop through and display each of the users
 
       for (var i = 0; i < data.length; i++) {
         var listItem = $("<li class='list-group-item mt-4'>").attr({
@@ -57,7 +57,7 @@ $(document).ready(function () {
               $(
                 "<h4 style='text-indent:50px'> Task " +
                 (k + 1) +
-                ":" +
+                ": " +
                 taskData[k].task +
                 "</h4>"
               )

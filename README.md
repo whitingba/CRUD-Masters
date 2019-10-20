@@ -12,11 +12,11 @@ To add a User, current user will click on “Add User” and complete the user n
 To edit a User works the same way as editing a task however user has less fields to complete which are the username and password field.
 
 ### Link
-Check out the live version of this application here: https://crud-masters.herokuapp.com/
+Check out the live version of this application here: https://glacial-brook-57318.herokuapp.com/
 
 ### Screenshot
 ##### Homepage
-![Screenshot of home page](https://github.com/whitingba/Project-two/blob/master/public/img/Homepage.PNG)
+![Screenshot of home page](https://github.com/whitingba/CRUD-Masters/blob/master/public/img/Homepage.PNG)
 
 ### Technologies Used
 * CSS (w/bootstrap framework), 
@@ -34,3 +34,8 @@ Check out the live version of this application here: https://crud-masters.heroku
 * Obiageli Ogbutor
 * Austin Terry
 * Barbara Whiting
+
+
+
+### Post Development Changes
+* 10/20/2019 - forked the project into my own repository so I could more easily make changes. Re-deployed on a new Heroku page to see the changes I will make. 
